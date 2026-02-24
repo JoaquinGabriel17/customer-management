@@ -1,0 +1,16 @@
+Proyecto: (MVP), APP de gestión de clientes:
+Primera versión debe incluir:
+Registro / Login
+CRUD de Clientes
+CRUD de Pedidos
+Estado de pago (Pendiente / Pagado / Cancelado)
+Historial por cliente
+Notas internas
+
+Stack: 
+Frontend: React + TypeScript + Vite
+Backend: Node + Express
+DB: PostgreSQL (mejor para relaciones y mostrar dominio SQL en tu CV)
+ORM: Prisma (te hace ver moderno y profesional)
+Auth: JWT + bcrypt
+Deploy: Render / Railway / Fly.io
